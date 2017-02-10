@@ -1,5 +1,7 @@
 # Workshop-2
 
+fixed up like before
+
 The second workshop of CS326, which covers how to use Git in a group setting.
 
 This is my first time using a terminal and I am loving it! I might be a little
